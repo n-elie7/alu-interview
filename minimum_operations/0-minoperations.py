@@ -1,4 +1,12 @@
+#!/usr/bin/python3
+"""
+Minimum operations problem
+"""
+
 def minOperations(n):
+    """
+    Minimum operations problem
+    """
     if n <= 1:
         return 0
 
@@ -15,5 +23,3 @@ def minOperations(n):
         operations += n
 
     return operations
-
-
