@@ -3,6 +3,7 @@
 Minimum operations problem
 """
 
+
 def minOperations(n):
     """
     Minimum operations problem
